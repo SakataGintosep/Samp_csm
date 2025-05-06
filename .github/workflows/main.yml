@@ -8,6 +8,9 @@ on:
         required: true
         default: 'true'
 
+permissions:
+  contents: write
+
 jobs:
   update_status:
     runs-on: ubuntu-latest
