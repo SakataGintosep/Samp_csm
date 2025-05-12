@@ -2,7 +2,7 @@
   "servers": [
     {
       "host": "play.uifserver.net",
-      "port": "7776"
+      "port": "7777"
     },
     {
       "host": "144.217.19.105",
